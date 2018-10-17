@@ -12,7 +12,7 @@ Video tutorials about SAP HANA Platform Installation and Update topics, includin
 
 ## References
 For the documentation on this topic, see the Installation and Upgrade section on
-- [SAP HANA Platform (latest)](https://help.sap.com/viewer/product/SAP_HANA_PLATFORM/latest/en-US) 
+- [SAP HANA Platform (latest)](https://help.sap.com/hana) 
 
 To download SAP HANA Platform software, see Software Downloads on the SAP Support Portal (requires S- or P-user)
 - [Software Downloads](https://launchpad.support.sap.com/#/softwarecenter) 
