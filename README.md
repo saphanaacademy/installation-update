@@ -16,3 +16,9 @@ For the documentation on this topic, see the Installation and Upgrade section on
 
 To download SAP HANA Platform software, see Software Downloads on the SAP Support Portal (requires S- or P-user)
 - [Software Downloads](https://launchpad.support.sap.com/#/softwarecenter) 
+
+For information about supported and archived releases, see 
+- [Product Availability Matrix](https://apps.support.sap.com/sap/support/pam/)
+
+For Support Information, see
+- [SAP HANA, platform edition 2.0](https://launchpad.support.sap.com/#/products/73554900100900001301)
